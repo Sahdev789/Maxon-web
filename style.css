@@ -1,0 +1,71 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+    font-family: "Poppins", sans-serif;
+}
+
+
+
+                                                   /* Navbar */
+   /* .nav{
+    height: 70px;
+    background-color:#ebebeb;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    cursor: pointer;
+    position: sticky;
+    top: 0px;
+    z-index: 5;
+} */
+                                             /* logo */
+/* .nav .logo img{
+    width: 140px;
+    margin-left: 15px;
+    margin-top: 2x;
+} */
+                                            /* middle content */
+/* .nav .middle{
+    margin-bottom: 4px;
+} */
+                                                    
+/* .nav .middle a{
+    text-decoration: none;
+    color: #262626;
+    padding: 0 10px;
+    font-size: 18px;
+    position: relative;
+    cursor: pointer;
+    font-weight: 500;
+} */
+                                                    
+/* .middle a::after{
+    content:"" ;
+    position: absolute;
+    background-color:#262626;
+    height: 2px;
+    width: 0;
+    left: 0;
+    bottom: -4px;
+    transition: 0.3s;
+
+} */
+                                                    
+/* .middle a:hover::after{
+    width: 100%;
+                                                    
+} */
+
+
+
+
+
