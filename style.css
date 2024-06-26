@@ -11,7 +11,67 @@
 body{
 
     font-family: "Poppins", sans-serif;
+
+
 }
+
+                                             /* parallex */
+
+.section-parallex{
+    background-image: url(image/pic3.jpg); 
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+    padding: 20px;
+    height: 350px;
+}
+
+.section-parallex .overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(24, 48, 185);
+    opacity: 0.5;
+}
+
+.section-parallex .container{
+    position: relative;
+}
+
+.section-parallex h2{
+    font-size: 2.5rem;
+}
+
+.section-parallex p{
+    font-size: 1.2rem;
+}
+
+.section-parallex p ,.section-parallex h2{
+    color: white;
+    margin-bottom: 1.5rem;
+
+}
+
+.section-parallex h2 span{
+    color: rgb(0, 248, 0);
+}
+
+
+                                          /* slick-slider */
+
+    .slick{
+    background-color:#2F3645;
+}
+                                
+.slide img{
+    height: 500px;
+    width: 100%;
+    object-fit: cover; 
+}
+                                
 
 
 
@@ -64,6 +124,7 @@ body{
     width: 100%;
                                                     
 } */
+
 
 
 
